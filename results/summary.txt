@@ -1,0 +1,20 @@
+TELE 523 End-to-End Simulation Summary
+====================================
+Input samples: 400
+Normal segment samples: 374
+Event segment samples: 26
+Quantization step size: 0.00392156862745098
+Best SNR: 12 dB
+Final BER at best case: 0.000000
+Reconstruction RMSE: 0.001135
+
+Extracted Features:
+- avg_temperature: 24.06068603303738
+- avg_pH: 7.2037955042123
+- avg_dissolved_oxygen: 5.803303497769638
+- min_dissolved_oxygen: 2.4252342526505837
+- max_temperature: 26.54988955324615
+- low_do_events: 26
+
+Alerts:
+- WARNING: Dissolved oxygen dropped below 4 mg/L.
